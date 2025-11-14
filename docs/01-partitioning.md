@@ -82,8 +82,4 @@ If everything looks correct, proceed to the encryption step in the next section.
 
 ➡️ **Next: [02 — LUKS Encryption](02-luks-encryption.md)**
 
-```
-
----
-
 
