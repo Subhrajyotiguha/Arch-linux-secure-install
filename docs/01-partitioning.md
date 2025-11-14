@@ -19,6 +19,9 @@ Verify network connectivity:
 ```bash
 ping archlinux.org
 ````
+---
+
+# 🧩 2. Partition the Drive
 
 List your disks:
 
@@ -27,10 +30,6 @@ lsblk
 ```
 
 Identify your target drive (example: `nvme0n1` or `sda`).
-
----
-
-# 🧩 2. Partition the Drive
 
 Use **cfdisk** to create the required GPT partitions:
 
