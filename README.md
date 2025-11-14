@@ -24,7 +24,7 @@ This project is inspired by real-world secure boot chains used in:
 
 ---
 
-#☝️ Project Purpose
+# ☝️ Project Purpose
 
 This guide exists to:
 
