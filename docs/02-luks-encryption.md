@@ -141,7 +141,4 @@ Make sure the EFI partition and all Btrfs subvolumes are mounted correctly.
 
 ➡️ **Next: [03 — Base Installation](03-base-install.md)**
 
-```
-
----
 
