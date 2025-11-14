@@ -112,3 +112,15 @@ You can:
 All constructive input is appreciated.
 
 ---
+
+## 📚 Documentation
+
+1. [🧩 Partitioning](docs/01-partitioning.md)
+2. [🔐 LUKS Encryption](docs/02-luks-encryption.md)
+3. [📦 Btrfs Subvolumes](docs/03-btrfs-subvolumes.md)
+4. [📥 Base Installation](docs/04-base-install.md)
+5. [🪪 UKI + mkinitcpio](docs/05-mkinitcpio-and-uki.md)
+6. [🔏 Secure Boot (sbctl)](docs/06-secureboot-sbctl.md)
+7. [🔒 TPM2 Auto Unlock](docs/07-tpm2-auto-unlock.md)
+8. [🔥 Kernel Hardening](docs/08-kernel-hardening.md)
+9. [🛡 AppArmor & Sandboxing](docs/09-apparmor-and-sandboxing.md)
