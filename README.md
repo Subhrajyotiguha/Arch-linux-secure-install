@@ -116,9 +116,8 @@ All constructive input is appreciated.
 ## 📚 Documentation
 
 1. [🧩 Partitioning](docs/01-partitioning.md)
-2. [🔐 LUKS Encryption](docs/02-luks-encryption.md)
-3. [📦 Btrfs Subvolumes](docs/03-btrfs-subvolumes.md)
-4. [📥 Base Installation](docs/04-base-install.md)
+2. [🔐 LUKS Encryption and BTRFS filesystem setup](docs/02-luks-encryption.md) 
+3. [📥 Base Installation](docs/03--base-installation.md)
 5. [🪪 UKI + mkinitcpio](docs/05-mkinitcpio-and-uki.md)
 6. [🔏 Secure Boot (sbctl)](docs/06-secureboot-sbctl.md)
 7. [🔒 TPM2 Auto Unlock](docs/07-tpm2-auto-unlock.md)
