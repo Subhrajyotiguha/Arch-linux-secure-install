@@ -160,5 +160,5 @@ You have installed:
 
 Your system is ready for:
 
-➡️ **SNext — [Initramfs (mkinitcpio) + UKI preset generation](04-mkinitcpio-uki.md)**
+➡️ **Next — [Initramfs (mkinitcpio) + UKI preset generation](04-mkinitcpio-uki.md)**
  
