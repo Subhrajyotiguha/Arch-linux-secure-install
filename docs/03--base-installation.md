@@ -25,7 +25,8 @@ reflector --latest 20 --sort rate --save /etc/pacman.d/mirrorlist
 Use `pacstrap` to install the minimal Arch base:
 
 ```bash
-pacstrap -K /mnt base linux linux-firmware btrfs-progs nano
+pacstrap -K /mnt base linux linux-firmware cryptsetup lvm2 btrfs-progs nano networkmanager zsh sof-firmware efibootmgr base-devel intel-ucode ukify
+
 ```
 
 If using Intel/AMD microcode,just add with the pacstrap:
